@@ -19,7 +19,11 @@
         <div id="asignaturas">
             <ul>
                 <li><a href="doc/DocumentacionTema1.pdf" target="_blank">Tema 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
-                <li><a href="https://github.com/alejandrohuerga/AHFDAWProyectoDAW.git" target="_blank">Tema 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a></li>
+                <li id="tema2">
+                    <p>TEMA 2:  INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DE ENTORNOS</p>
+                    <a href="https://github.com/alejandrohuerga/AHFDAWProyectoDAW.git" target="_blank">DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a>
+                    <a href="https://github.com/alejandrohuerga/AHFDWESEstudioClases.git" target="_blank">ESTUDIO CLASES Y FUNCIONES PHP</a>
+                </li>
                 <li><a href="../AHFDWESProyectoTema3/indexProyectoTema3.php">Tema 3: CARACTERISTICAS DEL LENGUAJE PHP</a></li>
                 <li><a href="../AHFDWESProyectoTema4/indexProyectoTema4.php">Tema 4: TÉCNICAS DE ACCESO A DATOS EN PHP </a></li>
                 <li id="tema5">
