@@ -23,6 +23,7 @@
                     <p>TEMA 2:  INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DE ENTORNOS</p>
                     <a href="https://github.com/alejandrohuerga/AHFDAWProyectoDAW.git" target="_blank">DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a>
                     <a href="https://github.com/alejandrohuerga/AHFDWESEstudioClases.git" target="_blank">ESTUDIO CLASES Y FUNCIONES PHP</a>
+                    <a href="doc/EstudioTeoricoWordpress.pdf" target="_blank">ESTUDIO WORDPRESS</a>
                 </li>
                 <li><a href="../AHFDWESProyectoTema3/indexProyectoTema3.php">Tema 3: CARACTERISTICAS DEL LENGUAJE PHP</a></li>
                 <li><a href="../AHFDWESProyectoTema4/indexProyectoTema4.php">Tema 4: TÉCNICAS DE ACCESO A DATOS EN PHP </a></li>
