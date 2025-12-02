@@ -18,15 +18,23 @@
     <main>
         <div id="asignaturas">
             <ul>
-                <li><a href="doc/DocumentacionTema1.pdf" target="_blank">Tema 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
+                <li>
+                    <p>TEMA 1: DESARROLLO WEB ENTORNO SERVIDOR</p>
+                    <a href="doc/DocumentacionTema1.pdf" target="_blank">ESTUDIO TEÓRICO DESARROLLO WEB EN ENTORNO SERVIDOR</a>
+                    <a href="doc/EstudioTeoricoWordpress.pdf" target="_blank">ESTUDIO TEÓRICO WORDPRESS</a>
+                </li>
                 <li id="tema2">
                     <p>TEMA 2:  INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DE ENTORNOS</p>
                     <a href="https://github.com/alejandrohuerga/AHFDAWProyectoDAW.git" target="_blank">DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a>
                     <a href="https://github.com/alejandrohuerga/AHFDWESEstudioClases.git" target="_blank">ESTUDIO CLASES Y FUNCIONES PHP</a>
-                    <a href="doc/EstudioTeoricoWordpress.pdf" target="_blank">ESTUDIO WORDPRESS</a>
+                    <p>DOCUMENTACIÓN ENTORNO DE EXPLOTACIÓN WORDPRESS</p>
                 </li>
-                <li><a href="../AHFDWESProyectoTema3/indexProyectoTema3.php">Tema 3: CARACTERISTICAS DEL LENGUAJE PHP</a></li>
-                <li><a href="../AHFDWESProyectoTema4/indexProyectoTema4.php">Tema 4: TÉCNICAS DE ACCESO A DATOS EN PHP </a></li>
+                <li>
+                    <a href="../AHFDWESProyectoTema3/indexProyectoTema3.php">Tema 3: CARACTERISTICAS DEL LENGUAJE PHP</a>
+                </li>
+                <li>
+                    <a href="../AHFDWESProyectoTema4/indexProyectoTema4.php">Tema 4: TÉCNICAS DE ACCESO A DATOS EN PHP </a>
+                </li>
                 <li id="tema5">
                     <p>TEMA 5 : DESARROLLO DE APLICACIONES WEB </p>
                     <a href="../AHFDWESProyectoTema5/indexProyectoTema5.php">EJERCICIOS</a>
@@ -39,6 +47,7 @@
                     <p>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS </p>
                     <p>LOGIN LOGOFF</p>
                     <p>APLICACIÓN FINAL</p>
+                    <p>APLICACIÓN WORDPRESS</p>
                 </li>
             </ul>
         </div>
