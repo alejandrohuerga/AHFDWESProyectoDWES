@@ -110,7 +110,6 @@
                 </li>
                 <li>TEMA 6: APLICACIONES WEB MULTICAPA</li>
                 <li>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</li>
-                <li>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</li>
                 <li id="tema5">
                     <p>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS </p>
                     <p>LOGIN LOGOFF</p>
