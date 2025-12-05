@@ -3,12 +3,80 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="webroot/estilos.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="icon" type="image/png" href="/Proyecto webs alumnos/media/logoSauces.png">
     <link href="https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
     <title>Alejandro De la Huerga</title>
+    <style>
+        *{
+            box-sizing: border-box;
+            margin: 0;
+
+        }
+
+        header{
+            width: 100%;
+            height: 15vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: lightblue;
+        }
+
+        header h1{
+            margin-bottom: 10px;
+        }
+
+        main{
+            width: 100%;
+            height: 70vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #asignaturas{
+            height: 55vh;
+            width: 80%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        ul{
+            list-style: none;
+        }
+
+        li{
+            width: 100%;
+            height: 65px;
+            text-align: center;
+            background: lightblue;
+            margin: 7px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            border-radius: 20px;
+            
+            font-size: 0.9rem;
+
+
+        }
+
+
+        footer{
+            width: 100%;
+            height: 15vh;
+            background: lightblue;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+    </style>
 </head>
 <body>
     <header>
