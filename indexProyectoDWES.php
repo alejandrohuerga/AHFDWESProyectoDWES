@@ -108,11 +108,13 @@
                     <a href="../AHFDWESProyectoTema5/indexProyectoTema5.php">EJERCICIOS</a>
                     <a href="../AHFDWESLoginLogoffTema5/indexLoginLogoffTema5.php">LOGIN LOGOFF TEMA 5</a>
                 </li>
-                <li>TEMA 6: APLICACIONES WEB MULTICAPA</li>
+                <li>
+                    <p>TEMA 6: APLICACIONES WEB MULTICAPA</p>
+                    <a href="../AHFDWESLoginLogoff/indexLoginLogoff.php">lOGIN LOGOFF</a>
+                </li>
                 <li>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</li>
                 <li id="tema5">
                     <p>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS </p>
-                    <p>LOGIN LOGOFF</p>
                     <p>APLICACIÓN FINAL</p>
                     <p>APLICACIÓN WORDPRESS</p>
                 </li>
