@@ -90,6 +90,8 @@
                     <p>TEMA 1: DESARROLLO WEB ENTORNO SERVIDOR</p>
                     <a href="doc/DocumentacionTema1.pdf" target="_blank">ESTUDIO TEÓRICO DESARROLLO WEB EN ENTORNO SERVIDOR</a>
                     <a href="doc/EstudioTeoricoWordpress.pdf" target="_blank">ESTUDIO TEÓRICO WORDPRESS</a>
+                    <a href="doc/EstudioTeoricoLaravel.pdf" target="_blank">ESTUDIO TEÓRICO LARAVEL</a>
+                    <a href="doc/PreparacionEntornoDesarrolloLaravel.pdf" target="_blank">PREPARACION ENTORNO DESARROLLO LARAVEL</a>
                 </li>
                 <li id="tema2">
                     <p>TEMA 2:  INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DE ENTORNOS</p>
@@ -115,7 +117,7 @@
                 <li>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</li>
                 <li id="tema5">
                     <p>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS </p>
-                    <p><a href="../AHFDWESAplicacionFinal/indexLoginLogoff.php"></a></p>
+                    <p><a href="../AHFDWESAplicacionFinal/indexLoginLogoff.php">APLICACION FINAL</a></p>
                     <p>APLICACIÓN WORDPRESS</p>
                 </li>
             </ul>
