@@ -118,7 +118,7 @@
                 <li id="tema5">
                     <p>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS </p>
                     <p><a href="../AHFDWESAplicacionFinal/indexLoginLogoff.php">APLICACION FINAL</a></p>
-                    <p>APLICACIÓN WORDPRESS</p>
+                    <p>APLICACION LARAVEL</p>
                 </li>
             </ul>
         </div>
