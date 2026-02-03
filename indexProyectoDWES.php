@@ -17,7 +17,7 @@
 
         header{
             width: 100%;
-            height: 15vh;
+            height: 10vh;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -31,7 +31,7 @@
 
         main{
             width: 100%;
-            height: 70vh;
+            height: 80vh;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -52,7 +52,7 @@
 
         li{
             width: 100%;
-            height: 65px;
+            height: 85px;
             text-align: center;
             background: lightblue;
             margin: 7px;
@@ -69,7 +69,7 @@
 
         footer{
             width: 100%;
-            height: 15vh;
+            height: 10vh;
             background: lightblue;
             display: flex;
             justify-content: center;
