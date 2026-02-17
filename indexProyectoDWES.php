@@ -17,7 +17,7 @@
 
         header{
             width: 100%;
-            height: 15vh;
+            height: 10vh;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -31,7 +31,7 @@
 
         main{
             width: 100%;
-            height: 70vh;
+            height: 80vh;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -52,7 +52,7 @@
 
         li{
             width: 100%;
-            height: 65px;
+            height: 85px;
             text-align: center;
             background: lightblue;
             margin: 7px;
@@ -69,7 +69,7 @@
 
         footer{
             width: 100%;
-            height: 15vh;
+            height: 10vh;
             background: lightblue;
             display: flex;
             justify-content: center;
@@ -90,6 +90,8 @@
                     <p>TEMA 1: DESARROLLO WEB ENTORNO SERVIDOR</p>
                     <a href="doc/DocumentacionTema1.pdf" target="_blank">ESTUDIO TEÓRICO DESARROLLO WEB EN ENTORNO SERVIDOR</a>
                     <a href="doc/EstudioTeoricoWordpress.pdf" target="_blank">ESTUDIO TEÓRICO WORDPRESS</a>
+                    <a href="doc/EstudioTeoricoLaravel.pdf" target="_blank">ESTUDIO TEÓRICO LARAVEL</a>
+                    <a href="doc/PreparacionEntornoDesarrolloLaravel.pdf" target="_blank">PREPARACION ENTORNO DESARROLLO LARAVEL</a>
                 </li>
                 <li id="tema2">
                     <p>TEMA 2:  INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DE ENTORNOS</p>
@@ -115,8 +117,8 @@
                 <li>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</li>
                 <li id="tema5">
                     <p>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS </p>
-                    <p><a href="../AHFDWESAplicacionFinal/index.php">APLICACION FINAL</a></p>
-                    <p>APLICACIÓN WORDPRESS</p>
+                    <p><a href="../AHFDWESAplicacionFinal/indexLoginLogoff.php">APLICACION FINAL</a></p>
+                    <p>APLICACION LARAVEL</p>
                 </li>
             </ul>
         </div>
